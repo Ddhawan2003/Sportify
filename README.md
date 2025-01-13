@@ -1,6 +1,3 @@
-Here's the updated README formatted for direct use on GitHub:
-
-```markdown
 # Sportify - Centralized Sports & Fitness Platform  
 
 **[sportifyhq.vercel.app](https://sportifyhq.vercel.app)**  
