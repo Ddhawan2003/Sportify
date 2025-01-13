@@ -43,4 +43,3 @@ Built by 4 Purdue CS students during CS407: Software Engineering II:
 - **Anisha Joshi**  
 - **Aniket Mohanty**  
 - **Sai Edupulapati**  
-```
